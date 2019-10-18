@@ -4,6 +4,8 @@
 
 #### By _**{Saul Ordonez}**_
 
+#### URL _{https://saul-ordonez.github.io/portfolio/}
+
 ## Description
 
 _{This is a webpage that includes my name and contact information as well as an 'about me' section, background experience, hobbies, skills, past projects I have worked on linking to GitHub, and work experience.}
@@ -11,7 +13,7 @@ _{This is a webpage that includes my name and contact information as well as an 
 ## Setup/Installation Requirements
 
 *_Internet connectivity required_
-*_URL or local file path needed to run in internet browser
+*_URL or local file path needed to run in internet browser_
 *_Requires Internet Explorer 8 or later_
 *_Windows 95 or MacOS Sierra_
 
