@@ -2,6 +2,9 @@ img {
   height: 25%;
   width: 25%;
   float: right;
+  border-style: ridge;
+  border-width: 5px;
+  border-color: #0080ff;
 }
 
 body {
